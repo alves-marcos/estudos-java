@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/area-circulo/area-circulo.iml" filepath="$PROJECT_DIR$/area-circulo/area-circulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contador-objetos/contador-objetos.iml" filepath="$PROJECT_DIR$/contador-objetos/contador-objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversor-temperatura/conversor-temperatura.iml" filepath="$PROJECT_DIR$/conversor-temperatura/conversor-temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/converter-dolar/converter-dolar.iml" filepath="$PROJECT_DIR$/converter-dolar/converter-dolar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exeStatic.iml" filepath="$PROJECT_DIR$/.idea/exeStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/exercicio/exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-calculadora/exercicio-calculadora.iml" filepath="$PROJECT_DIR$/exercicio-calculadora/exercicio-calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media-aluno/media-aluno.iml" filepath="$PROJECT_DIR$/media-aluno/media-aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salary-increase/salary-increase.iml" filepath="$PROJECT_DIR$/salary-increase/salary-increase.iml" />
+    </modules>
+  </component>
+</project>

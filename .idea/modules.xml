@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CursoJava.iml" filepath="$PROJECT_DIR$/.idea/CursoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exerciciopoo/Exerciciopoo.iml" filepath="$PROJECT_DIR$/Exerciciopoo/Exerciciopoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeStatic/area-circulo/area-circulo.iml" filepath="$PROJECT_DIR$/exeStatic/area-circulo/area-circulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeStatic/contador-objetos/contador-objetos.iml" filepath="$PROJECT_DIR$/exeStatic/contador-objetos/contador-objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeStatic/conversor-temperatura/conversor-temperatura.iml" filepath="$PROJECT_DIR$/exeStatic/conversor-temperatura/conversor-temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeStatic/converter-dolar/converter-dolar.iml" filepath="$PROJECT_DIR$/exeStatic/converter-dolar/converter-dolar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeStatic/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/exeStatic/exercicio/exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeStatic/exercicio-calculadora/exercicio-calculadora.iml" filepath="$PROJECT_DIR$/exeStatic/exercicio-calculadora/exercicio-calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construtores/exercicioConstrutor/exercicioConstrutor.iml" filepath="$PROJECT_DIR$/Construtores/exercicioConstrutor/exercicioConstrutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeStatic/media-aluno/media-aluno.iml" filepath="$PROJECT_DIR$/exeStatic/media-aluno/media-aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membrosEstaticos/membrosEstaticos.iml" filepath="$PROJECT_DIR$/membrosEstaticos/membrosEstaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Construtores/primeiroConstrutor/primeiroConstrutor.iml" filepath="$PROJECT_DIR$/Construtores/primeiroConstrutor/primeiroConstrutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeStatic/salary-increase/salary-increase.iml" filepath="$PROJECT_DIR$/exeStatic/salary-increase/salary-increase.iml" />
+    </modules>
+  </component>
+</project>
