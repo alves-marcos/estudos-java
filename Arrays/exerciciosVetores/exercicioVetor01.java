@@ -27,7 +27,7 @@ public class exercicioVetor01 {
         System.out.println(Arrays.toString(vect));
 
 
-        sc.close();
+        sc.close(); 
     }
 }
 

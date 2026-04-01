@@ -26,7 +26,6 @@ public class Program {
 
 
             System.out.print("Digite a idade: ");
-
             int idade = sc.nextInt();
 
             System.out.print("Digite a altura: ");
