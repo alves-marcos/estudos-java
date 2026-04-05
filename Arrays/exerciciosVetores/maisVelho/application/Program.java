@@ -31,9 +31,9 @@ public class Program {
         }
 
 
-        for (int i = 0; i < pessoas.length; i++){
-            if (pessoas[i] = new Pessoa())
-        }
+    //    for (int i = 0; i < pessoas.length; i++){
+      //      if (pessoas[i] = new Pessoa())
+     //   }
 
 
         System.out.println(Arrays.toString(pessoas));

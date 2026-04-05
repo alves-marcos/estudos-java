@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExerciciosRefeitos.iml" filepath="$PROJECT_DIR$/.idea/ExerciciosRefeitos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abaixoMedia/abaixoMedia.iml" filepath="$PROJECT_DIR$/abaixoMedia/abaixoMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alturas/alturas.iml" filepath="$PROJECT_DIR$/alturas/alturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aprovados/aprovados.iml" filepath="$PROJECT_DIR$/aprovados/aprovados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dados-pessoas/dados-pessoas.iml" filepath="$PROJECT_DIR$/dados-pessoas/dados-pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maiorPosicao/maiorPosicao.iml" filepath="$PROJECT_DIR$/maiorPosicao/maiorPosicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maisVelho/maisVelho.iml" filepath="$PROJECT_DIR$/maisVelho/maisVelho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaPares/mediaPares.iml" filepath="$PROJECT_DIR$/mediaPares/mediaPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/negativos/negativos.iml" filepath="$PROJECT_DIR$/negativos/negativos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosPares/numerosPares.iml" filepath="$PROJECT_DIR$/numerosPares/numerosPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/somaVetor/somaVetor.iml" filepath="$PROJECT_DIR$/somaVetor/somaVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/somaVetores/somaVetores.iml" filepath="$PROJECT_DIR$/somaVetores/somaVetores.iml" />
+    </modules>
+  </component>
+</project>

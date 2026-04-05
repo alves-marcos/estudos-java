@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CursoJava.iml" filepath="$PROJECT_DIR$/.idea/CursoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exerciciopoo/Exerciciopoo.iml" filepath="$PROJECT_DIR$/Exerciciopoo/Exerciciopoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Listas.iml" filepath="$PROJECT_DIR$/Listas/Listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exeStatic/area-circulo/area-circulo.iml" filepath="$PROJECT_DIR$/exeStatic/area-circulo/area-circulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/exeStatic/contador-objetos/contador-objetos.iml" filepath="$PROJECT_DIR$/exeStatic/contador-objetos/contador-objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exeStatic/conversor-temperatura/conversor-temperatura.iml" filepath="$PROJECT_DIR$/exeStatic/conversor-temperatura/conversor-temperatura.iml" />

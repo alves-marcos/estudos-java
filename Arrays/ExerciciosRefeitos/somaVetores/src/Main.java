@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args){
+    static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
@@ -14,28 +14,24 @@ public class Main {
 
         System.out.print("Digite os valores do vetor A: ");
         System.out.println();
-        for (int i = 0; i < vetorA.length; i++){
-            System.out.print("Digite o " + (i +1) + "º valor:");
+        for (int i = 0; i < vetorA.length; i++) {
+            System.out.print("Digite o " + (i + 1) + "º valor:");
             vetorA[i] = sc.nextInt();
         }
 
         System.out.print("Digite os valores do vetor B: ");
         System.out.println();
-        for (int i = 0; i < vetorB.length; i++){
-            System.out.print("Digite o " + (i +1) + "º valor:");
+        for (int i = 0; i < vetorB.length; i++) {
+            System.out.print("Digite o " + (i + 1) + "º valor:");
             vetorB[i] = sc.nextInt();
         }
 
         System.out.println("VETOR RESULTANTE: ");
-        for (int i = 0; i < vetorA.length; i++){
+        for (int i = 0; i < vetorA.length; i++) {
             vetorSoma[i] = vetorA[i] + vetorB[i];
             System.out.println(vetorSoma[i]);
 
         }
-
-
-
-
 
 
         sc.close();
