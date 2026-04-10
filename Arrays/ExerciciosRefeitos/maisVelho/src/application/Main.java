@@ -12,7 +12,7 @@ public class Main {
         int qtd = sc.nextInt();
         sc.nextLine();
 
-        Pessoas[] pessoas = new Pessoas[qtd];
+        Pessoa[] pessoas = new Pessoa[qtd];
 
         for (int i = 0; i < pessoas.length; i++) {
             System.out.println("Dados da " + (i + 1) + "º pessoa:");
@@ -23,7 +23,7 @@ public class Main {
             int idade = sc.nextInt();
             sc.nextLine();
 
-            pessoas[i] = new Pessoas(name, idade);
+            pessoas[i] = new Pessoa(name, idade);
         }
 
         int velho = 0;
