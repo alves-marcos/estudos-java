@@ -1,35 +1,46 @@
 package entities;
 
 public class Funcionarios {
-    private int id;
+    private Integer id;
     private String name;
-    private double salary;
+    private Double salary;
 
-    public Funcionarios(int id, String name, double salary){
+    public Funcionarios() {
+    }
+
+    public Funcionarios(Integer id, String name, Double salary) {
         this.id = id;
         this.name = name;
         this.salary = salary;
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
     }
 
     public String getName() {
         return name;
     }
 
-    public double getSalary() {
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Double getSalary() {
         return salary;
     }
 
-    double acrescentarSalary(){
-        return salary + salary*0.1;
+    public void setSalary(Double salary) {
+        this.salary = salary;
+    }
+
+    public double increaseSalary(double percentage){
+        return salary + (salary * percentage/100);
     }
 
 
-    @Override
-    public String toString() {
-        return id + ", " + name  + ", " + salary + "\n";
-    }
 }
